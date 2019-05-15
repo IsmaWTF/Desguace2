@@ -16,6 +16,7 @@ public class Main {
         ArrayList<Coche> lista = new ArrayList<Coche>();
 
         do {
+            System.out.println("TROLLFACE");
             System.out.println("BASE DE DADATOS COCHES");
             System.out.println("1. Añadir coche");
             System.out.println("2. Consultar Coches \n");
